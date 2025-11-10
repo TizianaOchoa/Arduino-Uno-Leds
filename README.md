@@ -74,5 +74,11 @@ Se logró controlar **salidas digitales (LEDs)** y modificar su comportamiento a
 │
 └── README.md
 ```
+## 📂 Wokwi
+
+
+**Led sin pulsador:** https://wokwi.com/projects/446073684209624065
+
+**Led con pulsador:** https://wokwi.com/projects/446354045281817601
 
 ---
