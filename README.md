@@ -60,11 +60,19 @@ Se logró controlar **salidas digitales (LEDs)** y modificar su comportamiento a
 
 ---
 
-## 📂 Archivos del proyecto
-
-En este repositorio se incluyen los siguientes archivos:
-
-- `leds_sin_pulsador.ino` → Programa base: encendido y apagado alternado de dos LEDs.  
-- `leds_con_pulsador.ino` → Versión modificada: incorpora un pulsador para cambiar el tiempo de delay.  
+## 📂 Estructura del proyecto
+```
+📁 Arduino-Uno-Leds
+│
+├── 📂 leds sin pulsador
+│ ├── leds_sin_pulsador.ino # Código para encendido y apagado alternado de LEDs
+│ └── diagram.json # Diagrama de conexión (sin pulsador)
+│
+└── 📂 leds con pulsador
+├── leds_con_pulsador.ino # Código modificado que incluye pulsador
+└── diagram.json # Diagrama de conexión (con pulsador)
+│
+└── README.md
+```
 
 ---
